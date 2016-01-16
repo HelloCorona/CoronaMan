@@ -1,0 +1,2 @@
+# CoronaMan
+Game Sample :: CoronaMan
